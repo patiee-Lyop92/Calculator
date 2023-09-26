@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    background: #293462;
+    font-family: 'Iceland', cursive;
+
+}
+
+button {
+    margin-left: 10px;
+    border: 3px solid black;
+    border-radius: 5px;
+    padding: 5px 10px;
+    font-family: 'Iceland', cursive;
+    font-weight: bold;
+
+}
+
+button:hover {
+    background: #C21010;
+
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+h3 {
+    color: #F6F6F6;
+    margin-left: 15px;
+    font-family: 'Verdana';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 36px;
+}
+
+.guest,
+ .home{
+    width: 180px;
+    height: 150px;
+    background: #100720;
+    color: red;
+    line-height: 127px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Graduate', cursive;
+
+
+
+
+}
+
+
+
